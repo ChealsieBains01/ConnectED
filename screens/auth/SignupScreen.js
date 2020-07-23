@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Button } from "react-native";
 import LoginScreen from "./screens/auth/LoginScreen";
 
 export default function App() {
-  return <LoginScreen />;
+  return <Text>Signup</Text>;
 }
 
 const styles = StyleSheet.create({
